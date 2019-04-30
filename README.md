@@ -1,6 +1,6 @@
 # OpenSource Contributions
 
-List of my opensource contributions
+List of my opensource contributions. **Not including** contributions to projects I started.
 
 ### Rust standard library
 
