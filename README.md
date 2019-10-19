@@ -4,7 +4,7 @@ List of my opensource contributions. **Not including** contributions to projects
 
 ### [Rust standard library](https://github.com/rust-lang/rust)
 
-- [Option::flatten](https://github.com/rust-lang/rust/pull/60256)
+- [Option::flatten](https://github.com/rust-lang/rust/pull/60256) + [Stabilize](https://github.com/rust-lang/rust/pull/64747)
 - [Make `ParseIntError` and `IntErrorKind` fully public + Documentation](https://github.com/rust-lang/rust/pull/55705)
 
 ### [Blender](https://developer.blender.org/)
