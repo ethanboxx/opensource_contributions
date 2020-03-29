@@ -11,6 +11,12 @@ List of my opensource contributions. **Not including** contributions to projects
 
 - [Multi Object Smooth shading](https://developer.blender.org/rBe4c4e8566fdcf4b9c81a09d9559d358a9550d015)
 
+### [build-your-own-jira-with-rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
+
+- [Run rustfmt on koans](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/pull/23)
+- [Note on rusts implicit returns](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/pull/24)
+- [Note on how `path_to_enlightenment.rs` should not be modified](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/pull/25)
+
 ### [image](https://github.com/image-rs/image)
 
 - [Derive Debug on FilterType](https://github.com/image-rs/image/pull/907)
